@@ -1,6 +1,7 @@
 import { useState } from "react";
 
 export default function mouse() {
+  // React Hooks
   // Estado nas variáveis x e y
   const [x, setX] = useState(0); // no react usa-se o set
 
